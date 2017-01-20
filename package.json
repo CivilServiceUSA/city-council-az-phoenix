@@ -52,6 +52,7 @@
     "csv-to-json": "./node_modules/.bin/csvtojson ./city-council/data/city-council-data.csv > ./city-council/data/city-council-data.json && echo '✓ Updated city-council/data/city-council-data.json'",
     "resize-headshots": "node ./.scripts/resize-headshots.js",
     "resize-backgrounds": "node ./.scripts/resize-backgrounds.js",
+    "console-headshots": "node ./.scripts/console-headshots.js",
     "convert-csv": "node ./.scripts/convert-csv.js",
     "build-images": "npm run -s resize-headshots && npm run -s resize-backgrounds && echo '\n☆ Image Conversion Complete\n'",
     "build-data": "npm run -s csv-to-json && npm run -s json-to-yml && npm run -s json-to-xml && npm run -s csv-to-sql && echo '\n☆ Data Conversion Complete\n'",

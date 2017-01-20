@@ -9,21 +9,22 @@ City Council Data for Phoenix, AZ
 
 ![Phoenix, AZ](city-council/images/backgrounds/640x360/city.jpg "Phoenix, AZ")
 
+
+![Thelda Williams](city-council/images/headshots/128x128/thelda-williams.jpg "Thelda Williams")
+![Jim Waring](city-council/images/headshots/128x128/jim-waring.jpg "Jim Waring")
+![Debra Stark](city-council/images/headshots/128x128/debra-stark.jpg "Debra Stark")
+![Laura Pastor](city-council/images/headshots/128x128/laura-pastor.jpg "Laura Pastor")
+![Daniel Valenzuela](city-council/images/headshots/128x128/daniel-valenzuela.jpg "Daniel Valenzuela")
+![Sal DiCiccio](city-council/images/headshots/128x128/sal-diciccio.jpg "Sal DiCiccio")
+![Michael Nowakowski](city-council/images/headshots/128x128/michael-nowakowski.jpg "Michael Nowakowski")
+![Kate Gallego](city-council/images/headshots/128x128/kate-gallego.jpg "Kate Gallego")
+![Greg Stanton](city-council/images/headshots/128x128/greg-stanton.jpg "Greg Stanton")
+
 Introduction
 ---
 
 This project provides the City Council Data, Headshots & City Photo for Phoenix, AZ ( JSON, XML, CSV, SQL & YML formats ).  See [Provided Data](#provided-data) below for full list of data in this project.
 
-
-![Jim Waring](city-council/images/headshots/128x128/jim-waring.jpg "Jim Waring")
-![Kate Gallego](city-council/images/headshots/128x128/kate-gallego.jpg "Kate Gallego")
-![Sal DiCiccio](city-council/images/headshots/128x128/sal-diciccio.jpg "Sal DiCiccio")
-![Greg Stanton](city-council/images/headshots/128x128/greg-stanton.jpg "Greg Stanton")
-![Thelda Williams](city-council/images/headshots/128x128/thelda-williams.jpg "Thelda Williams")
-![Debra Stark](city-council/images/headshots/128x128/debra-stark.jpg "Debra Stark")
-![Laura Pastor](city-council/images/headshots/128x128/laura-pastor.jpg "Laura Pastor")
-![Daniel Valenzuela](city-council/images/headshots/128x128/daniel-valenzuela.jpg "Daniel Valenzuela")
-![Michael Nowakowski](city-council/images/headshots/128x128/michael-nowakowski.jpg "Michael Nowakowski")
 
 Completed Tasks
 ---
@@ -33,8 +34,9 @@ We have completed the following Data Collection for Phoenix, AZ. [Watch Project]
 - [X] City Council Data Created
 - [X] City Photo Created
 - [X] Councilor Headshots Created
-- [ ] GeoJSON File Created
-- [ ] Published NPM Package
+- [X] Images Uploaded to CDN
+- [X] GeoJSON File Created
+- [X] Published NPM Package
 
 
 Maintaining Data
