@@ -5,7 +5,7 @@ __Civil Services__ is a collection of tools that make it possible for citizens t
 City Council Data for Phoenix, AZ
 ===
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/CivilServiceUSA/us-states/master/LICENSE)  [![GitHub contributors](https://img.shields.io/github/contributors/CivilServiceUSA/us-states.svg)](https://github.com/CivilServiceUSA/us-states/graphs/contributors)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/CivilServiceUSA/city-council-az-phoenix/master/LICENSE)  [![GitHub contributors](https://img.shields.io/github/contributors/CivilServiceUSA/city-council-az-phoenix.svg)](https://github.com/CivilServiceUSA/city-council-az-phoenix/graphs/contributors)
 
 ![Phoenix, AZ](city-council/images/backgrounds/640x360/city.jpg "Phoenix, AZ")
 
@@ -43,6 +43,8 @@ Maintaining Data
 ---
 
 This City Council Data is maintained in a Google Spreadsheet.  This data can be updated by the general public, and we will be notified when any change occurs.  So, if you see something wrong, just go ahead and fix it and we'll get a notice of the change.
+
+You will want to use [Phoenix's Official City Council Website](https://www.phoenix.gov/mayorcouncil) to populate this data. However, they may not have 100% of what we collect, so Google is your friend there :)
 
 ### [☑ Manage City Council Data](http://bit.ly/city-council-az-phoenix)
 
